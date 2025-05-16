@@ -169,5 +169,3 @@ if __name__ == '__main__':
     for f in weird_files:
         print(f)
 
-def test():
-    pass
