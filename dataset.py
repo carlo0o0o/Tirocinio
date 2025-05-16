@@ -168,3 +168,6 @@ if __name__ == '__main__':
     print("Files that max out at least one border:")
     for f in weird_files:
         print(f)
+
+def test():
+    pass
